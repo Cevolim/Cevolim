@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Cevolim
-- 👀 I’m interested in HTML,CSS,JAVASCRIPT,DISCORD Apps or codes.
+- 👀 I’m interested in HTML,CSS,JAVASCRIPT Apps or codes.
 - 🌱 I’m currently learning Javascript.
